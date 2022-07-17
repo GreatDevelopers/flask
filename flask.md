@@ -1,6 +1,6 @@
 #### On MS Windows:
 
-```bash
+```sh
 mkdir myproject
 cd myproject
 python -m venv env
